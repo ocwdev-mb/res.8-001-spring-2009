@@ -1,0 +1,9 @@
+leftnav:
+- identifier: 232f289f-a399-8a5a-9e87-3062f8752077
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes-contents
+  weight: 10
+- identifier: 67a3ef1f-0e3b-a873-11f9-3fb9ee2e9ecb
+  name: Other Publications
+  pageRef: /pages/other-publications
+  weight: 20
